@@ -1,0 +1,10 @@
+{
+    "Spells":
+    [
+        {
+            "Name": "Basic Spell",
+            "Damage": 1,
+            "Type": "Normal"
+        }
+    ]
+}

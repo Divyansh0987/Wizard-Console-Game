@@ -1,0 +1,15 @@
+/Users/divyanshjain/Desktop/Projects/WizardGame/bin/Debug/net7.0/WizardGame
+/Users/divyanshjain/Desktop/Projects/WizardGame/bin/Debug/net7.0/WizardGame.deps.json
+/Users/divyanshjain/Desktop/Projects/WizardGame/bin/Debug/net7.0/WizardGame.runtimeconfig.json
+/Users/divyanshjain/Desktop/Projects/WizardGame/bin/Debug/net7.0/WizardGame.dll
+/Users/divyanshjain/Desktop/Projects/WizardGame/bin/Debug/net7.0/WizardGame.pdb
+/Users/divyanshjain/Desktop/Projects/WizardGame/obj/Debug/net7.0/WizardGame.csproj.AssemblyReference.cache
+/Users/divyanshjain/Desktop/Projects/WizardGame/obj/Debug/net7.0/WizardGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divyanshjain/Desktop/Projects/WizardGame/obj/Debug/net7.0/WizardGame.AssemblyInfoInputs.cache
+/Users/divyanshjain/Desktop/Projects/WizardGame/obj/Debug/net7.0/WizardGame.AssemblyInfo.cs
+/Users/divyanshjain/Desktop/Projects/WizardGame/obj/Debug/net7.0/WizardGame.csproj.CoreCompileInputs.cache
+/Users/divyanshjain/Desktop/Projects/WizardGame/obj/Debug/net7.0/WizardGame.dll
+/Users/divyanshjain/Desktop/Projects/WizardGame/obj/Debug/net7.0/refint/WizardGame.dll
+/Users/divyanshjain/Desktop/Projects/WizardGame/obj/Debug/net7.0/WizardGame.pdb
+/Users/divyanshjain/Desktop/Projects/WizardGame/obj/Debug/net7.0/WizardGame.genruntimeconfig.cache
+/Users/divyanshjain/Desktop/Projects/WizardGame/obj/Debug/net7.0/ref/WizardGame.dll
