@@ -8,7 +8,7 @@ Console.WriteLine("No save file found.");
 Console.WriteLine("Would you like to create a new wizard?");
 string userInput = Console.ReadLine().ToLower();
 
-// #region checkUserInputValidity
+#region checkUserInputValidity
 if (userInput == "no") return;
 while (userInput != "yes")
 {
@@ -17,7 +17,7 @@ while (userInput != "yes")
 
     if (userInput == "yes") break;
 }
-// #endregion
+#endregion
 
 Console.WriteLine("You will now customize your wizard.");
 Wizard wizard = new Wizard();
