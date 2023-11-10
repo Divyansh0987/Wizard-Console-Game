@@ -1,5 +1,6 @@
 class Enemy
 {
     public string Name;
-    private float spawnRate;
+    public float SpawnRate;
+    public float Hp;
 }
