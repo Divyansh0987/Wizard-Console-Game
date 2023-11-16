@@ -1,9 +1,11 @@
+using System.Runtime.InteropServices;
+
 class Wizard
 {
     public string Name;
 
     private float _hp;
-    
+
     public float Hp
     {
         get => _hp;
@@ -16,6 +18,13 @@ class Wizard
 
     public float maxHp = 100;
 
-    public List<Spell> Spells;
+    public int maxNumOfSpells;
 
+    // public List<Spell> Spells;
+
+    public Wizard([Optional] string name)
+    {
+        this.Name = name;
+        this.Hp = maxHp;
+    }
 }
